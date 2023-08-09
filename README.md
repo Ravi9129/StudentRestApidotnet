@@ -1,0 +1,2 @@
+# StudentRestApidotnet
+StudentRestApidotnet without databse
